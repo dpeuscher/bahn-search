@@ -3,7 +3,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
-        "dpeuscher/lib-bahn-search": "^1.2.3",
+        "dpeuscher/lib-bahn-search": "^1.3.0",
         "mayflower/holiday": "^0.7.0",
         "smarcet/caldavclient": "^1.1",
         "symfony/browser-kit": "*",

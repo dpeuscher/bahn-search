@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb3114f5f1c110cc6da92e78370ca81e",
+    "content-hash": "6c3fa004ca206cd99f240ffef4d63545",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1172,16 +1172,16 @@
         },
         {
             "name": "dpeuscher/lib-bahn-search",
-            "version": "1.2.3",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dpeuscher/lib-bahn-search.git",
-                "reference": "e41c656b3a577648c926f8e8ad021d21965ed0df"
+                "reference": "766d56868ffb1b7744468f9d16db90f51fc225a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dpeuscher/lib-bahn-search/zipball/e41c656b3a577648c926f8e8ad021d21965ed0df",
-                "reference": "e41c656b3a577648c926f8e8ad021d21965ed0df",
+                "url": "https://api.github.com/repos/dpeuscher/lib-bahn-search/zipball/766d56868ffb1b7744468f9d16db90f51fc225a8",
+                "reference": "766d56868ffb1b7744468f9d16db90f51fc225a8",
                 "shasum": ""
             },
             "require": {
@@ -1207,7 +1207,7 @@
                 "MIT"
             ],
             "description": "A library to get cheap fares from the bahn website.",
-            "time": "2018-10-06T13:02:36+00:00"
+            "time": "2018-10-06T21:23:27+00:00"
         },
         {
             "name": "dpeuscher/util",
